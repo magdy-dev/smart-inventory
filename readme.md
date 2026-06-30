@@ -1,4 +1,14 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4c6a4d21-6599-4989-a5f1-7df1fbe77edc" />📦 Smart Inventory App
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4c6a4d21-6599-4989-a5f1-7df1fbe77edc" />
+<img width="1920" height="1080" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/338996b9-37af-4ae1-b381-d696e43867a7" />
+<img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/61608e30-3466-4f08-a5c9-717563737fe4" />
+
+<img width="1920" height="1080" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/77e5dbf3-a983-44eb-8e34-65a02b094ca8" />
+
+<img width="1920" height="1080" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/f811d43d-d436-4bc1-a965-200d99f3fb2d" />
+
+<img width="1920" height="1080" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/1373f8dc-c1cd-4ce6-8df9-82cb0a648407" />
+
+📦 Smart Inventory App
 
 This is a simple full-stack inventory management application built using SAP CAP for the backend and SAP Fiori Elements for the frontend.
 
