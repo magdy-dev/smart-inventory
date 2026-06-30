@@ -1,0 +1,13 @@
+# Ignore TypeScript source files
+**/*.ts
+**/*.ts.map
+**/*.js.map
+
+# Ignore test files
+**/test/**
+
+# Ignore local service files
+**/localService/**
+
+# Ignore node modules
+**/node_modules/**

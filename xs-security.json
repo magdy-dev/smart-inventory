@@ -1,0 +1,16 @@
+{
+  "xsappname": "smart-inventory",
+  "tenant-mode": "dedicated",
+  "scopes": [
+    {
+      "name": "$XSAPPNAME.Admin",
+      "description": "Admin access"
+    }
+  ],
+  "role-templates": [
+    {
+      "name": "Admin",
+      "scope-references": ["$XSAPPNAME.Admin"]
+    }
+  ]
+}
